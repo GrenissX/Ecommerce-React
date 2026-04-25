@@ -2,11 +2,11 @@
 
 Aplicación web de e-commerce desarrollada con **React 18** y **Vite**, como proyecto académico para la asignatura de Desarrollo Web.
 
-## 🚀 Demo
+##  Demo
 
-[Ver en Vercel →](https://tu-proyecto.vercel.app) *(reemplaza con tu URL)*
+[Ver en Vercel →] https://ecommerce-react-wine-nu.vercel.app/about
 
-## 🛠 Tecnologías
+##  Tecnologías
 
 | Tecnología | Uso |
 |---|---|
@@ -16,7 +16,7 @@ Aplicación web de e-commerce desarrollada con **React 18** y **Vite**, como pro
 | CSS Modules | Estilos por componente |
 | Context API | Estado global del carrito |
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 src/
@@ -42,7 +42,7 @@ src/
 └── index.css             # Estilos globales y design tokens
 ```
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **8 productos** con imagen, nombre, precio, categoría y descripción
 - **Carrito de compras** con drawer lateral, cantidad por producto y total
@@ -52,7 +52,7 @@ src/
 - **Responsive** — funciona en móvil, tablet y escritorio
 - Estado global con **Context API + useState**
 
-## 📦 Instalación local
+##  Instalación local
 
 ```bash
 # Clonar repositorio
@@ -68,13 +68,13 @@ npm run dev
 
 La aplicación estará disponible en `http://localhost:5173`
 
-## 🌐 Deploy en Vercel
+##  Deploy en Vercel
 
 1. Sube el repositorio a GitHub
 2. Entra a [vercel.com](https://vercel.com) → **New Project**
 3. Importa el repositorio
 4. Vercel detecta Vite automáticamente — haz clic en **Deploy**
 
-## 👤 Autor
+##  Autor
 
-Desarrollado como proyecto académico — [Tu nombre aquí]
+Desarrollado como proyecto académico — Juan Camilo de la pava cabrera

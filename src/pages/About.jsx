@@ -2,9 +2,9 @@ import styles from './About.module.css'
 
 export default function About() {
   const team = [
-    { name: 'Alejandra Torres', role: 'CEO & Fundadora', emoji: '👩‍💼' },
-    { name: 'Carlos Mendoza', role: 'Director de Tecnología', emoji: '👨‍💻' },
-    { name: 'Valentina Ríos', role: 'Head of Design', emoji: '👩‍🎨' },
+    { name: 'Camilo De la pava', role: 'CEO & Fundadora', emoji: '👩‍💼' },
+    { name: 'Camilo De la pava', role: 'Director de Tecnología', emoji: '👨‍💻' },
+    { name: 'Camilo De la pava', role: 'Head of Design', emoji: '👩‍🎨' },
   ]
 
   const values = [
