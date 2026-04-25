@@ -4,7 +4,7 @@ Aplicación web de e-commerce desarrollada con **React 18** y **Vite**, como pro
 
 ##  Demo
 
-[Ver en Vercel →] https://ecommerce-react-wine-nu.vercel.app/about
+[Ver en Vercel →] https://ecommerce-react-wine-nu.vercel.app/
 
 ##  Tecnologías
 
